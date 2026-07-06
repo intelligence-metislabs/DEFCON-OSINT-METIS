@@ -70,7 +70,7 @@ graph TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/defcon-osint-metis.git
+git clone https://github.com/intelligence-metislabs/DEFCON-OSINT-METIS.git
 cd defcon-osint-metis
 ```
 
